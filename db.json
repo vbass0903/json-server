@@ -28,8 +28,29 @@
       "Genre": "Adventure, Comedy, Crime",
       "Director": "Wes Anderson",
       "Actors": "Ralph Fiennes, F. Murray Abraham, Mathieu Amalric, Adrien Brody",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_SX300.jpg",
       "Metascore": "88",
       "imdbID": "tt2278388"
+    },
+    {
+      "Title": "Drive",
+      "Year": "2011",
+      "Genre": "Crime, Drama",
+      "Director": "Nicolas Winding Refn",
+      "Actors": "Ryan Gosling, Carey Mulligan, Bryan Cranston, Albert Brooks",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjY5ZjQyMjMtMmEwOC00Nzc2LTllYTItMmU2MzJjNTg1NjY0XkEyXkFqcGdeQXVyNjQ1MTMzMDQ@._V1_SX300.jpg",
+      "Metascore": "78",
+      "imdbID": "tt0780504"
+    },
+    {
+      "Title": "Memento",
+      "Year": "2000",
+      "Genre": "Mystery, Thriller",
+      "Director": "Christopher Nolan",
+      "Actors": "Guy Pearce, Carrie-Anne Moss, Joe Pantoliano, Mark Boone Junior",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+      "Metascore": "80",
+      "imdbID": "tt0209144"
     }
   ]
 }
